@@ -1,0 +1,39 @@
+Data Set Information:
+
+The NASA data set comprises different size NACA 0012 airfoils at various wind tunnel speeds and angles of attack. The span of the airfoil and the observer position were the same in all of the experiments.
+
+
+Attribute Information:
+
+This problem has the following inputs:
+1. Frequency, in Hertzs.
+2. Angle of attack, in degrees.
+3. Chord length, in meters.
+4. Free-stream velocity, in meters per second.
+5. Suction side displacement thickness, in meters.
+
+The only output is:
+6. Scaled sound pressure level, in decibels.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Información sobre el conjunto de datos:
+
+El conjunto de datos de la NASA comprende diferentes tamaños de perfiles NACA 0012 a varias velocidades y ángulos de ataque en el túnel de viento. 
+La envergadura del perfil y la posición del observador son las mismas en todos los experimentos.
+
+
+Información de atributos:
+
+Este problema tiene los siguientes atributos:
+1. Frecuencia, en hercios.
+2. Ángulo de ataque, en grados.
+3. Longitud de cuerda, en metros.
+4. Velocidad de la corriente libre, en metros por segundo.
+5. Espesor de desplazamiento del lado de aspiración, en metros.
+
+La única salida es:
+6. Nivel de presión sonora escalado, en decibelios.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
